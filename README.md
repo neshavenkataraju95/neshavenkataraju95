@@ -67,15 +67,14 @@ I specialize in:
 
 ---
 
-### 🔍 LLM & Retrieval Stack  
+### 🔍 Backend & LLMs 
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-000000?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/RAG-4B8BBE?style=for-the-badge)
 ![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge)
-![Pinecone](https://img.shields.io/badge/Pinecone-0052FF?style=for-the-badge)
-![Weaviate](https://img.shields.io/badge/Weaviate-FF6F61?style=for-the-badge)
-![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge)
-![Chroma](https://img.shields.io/badge/Chroma-8A2BE2?style=for-the-badge)
+![Vector_DBs](https://img.shields.io/badge/Vector_Databases-1E90FF?style=for-the-badge)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-
 ---
 
 ### ☁️ DevOps & Cloud  
