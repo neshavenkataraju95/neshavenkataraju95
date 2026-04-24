@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Venkataraju  
 
-### **AI Engineer | Agentic AI Systems | LLM Architecture | Vector Databases**  
+### **AI Engineer *  
 Building intelligent, autonomous, and production-grade AI systems powered by LLMs, retrieval, and modern machine learning.
 
 ---
@@ -10,45 +10,11 @@ Building intelligent, autonomous, and production-grade AI systems powered by LLM
 AI Engineer with **3+ years of experience building production-grade AI systems**.  
 Focused on designing and scaling **LLM-powered applications, agentic workflows, and retrieval systems**.
 
-I specialize in:
-- Architecting **end-to-end LLM systems**
-- Building **context-aware RAG pipelines**
-- Developing **autonomous agent-based workflows**
-- Delivering **scalable, high-performance AI applications**
-
----
-
-## 🧠 Focus Areas  
-
-- Designing **Agentic AI systems** with planning, memory, and tool usage  
-- Building **RAG pipelines** with scalable vector search  
-- Developing **LLM-powered APIs** using FastAPI  
-- Implementing **semantic search systems** (FAISS, Pinecone)  
-- Optimizing **LLM performance, latency, and cost**  
-
----
-
-## 🔭 Current Work  
-
-- Building **autonomous AI agents** with multi-step reasoning  
-- Exploring **advanced RAG architectures** (hybrid search, reranking)  
-- Scaling **LLM applications** for production environments  
-
----
-
-## ⚡ Highlights  
-
-- Built and deployed **LLM-based systems in production environments**  
-- Experience with **end-to-end AI pipelines (data → model → deployment)**  
-- Strong focus on **scalability, reliability, and real-world impact**  
-
----
-
 ## 🛠️ Skills & Technologies  
 
 ### 💻 Programming Languages  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ---
 
@@ -59,11 +25,6 @@ I specialize in:
 ![TensorFlow Lite](https://img.shields.io/badge/TensorFlow_Lite-FF6F00?style=for-the-badge)
 ![ONNX](https://img.shields.io/badge/ONNX-005CED?style=for-the-badge)
 ![Core ML](https://img.shields.io/badge/CoreML-000000?style=for-the-badge)
----
-
-### ⚙️ Backend  
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 ---
 
@@ -75,6 +36,7 @@ I specialize in:
 ![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge)
 ![Vector_DBs](https://img.shields.io/badge/Vector_Databases-1E90FF?style=for-the-badge)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
 ---
 
 ### ☁️ DevOps & Cloud  
