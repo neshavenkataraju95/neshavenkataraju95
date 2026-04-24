@@ -1,19 +1,26 @@
 # 👋 Hi, I'm Venkataraju  
 
-### **AI Engineer *  
-Building intelligent, autonomous, and production-grade AI systems powered by LLMs, retrieval, and modern machine learning.
+
+### 🧠 Senior AI Engineer  
+AI Engineer with **3+ years of experience building and deploying AI-powered applications in production environments**, specializing in LLM systems, agentic workflows, and retrieval-augmented architectures.
 
 ---
 
 ## 🚀 About Me  
 
-AI Engineer with **3+ years of experience building production-grade AI systems**.  
-Focused on designing and scaling **LLM-powered applications, agentic workflows, and retrieval systems**.
+I design and build **end-to-end AI systems that move from prototype to production**, focusing on reliability, scalability, and real-world performance.
+
+My work revolves around:
+- Architecting **LLM-based applications and AI agents**
+- Building **RAG pipelines for knowledge-intensive systems**
+- Developing **scalable backend systems for AI workloads**
+- Optimizing AI systems for **latency, cost, and accuracy**
 
 ## 🛠️ Skills & Technologies  
 
 ### 💻 Programming Languages  
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ---
@@ -30,7 +37,7 @@ Focused on designing and scaling **LLM-powered applications, agentic workflows, 
 
 ### 🔍 Backend & LLMs 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![LLMs](https://img.shields.io/badge/LLMs-000000?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/RAG-4B8BBE?style=for-the-badge)
 ![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge)
